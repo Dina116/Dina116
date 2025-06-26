@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dina Kamal</h1>
 <h3 align="center">Junior Android Developer | Passionate about Mobile App Development</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose** and **Machine Learning Integration in Android**
+- 🌱 I’m currently learning **Jetpack Compose** and **Solid Priciples**
 
-- 📫 How to reach me: **dina.kamal.dev@gmail.com**
+- 📫 How to reach me: **dinakamal116203@gmail.com**
 
 - ⚡ Fun fact: I love building apps that help others and solve real-world problems!
 
@@ -24,10 +24,10 @@
 
 ### 📱 Socials:
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <a href="(https://www.linkedin.com/in/dina-kamal11/)" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dina.kamal.dev@gmail.com" target="blank">
+  <a href="mailto:dinakamal116203@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
