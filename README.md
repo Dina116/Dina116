@@ -31,12 +31,3 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DinaKamal&show_icons=true&theme=radical" alt="dina's stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinaKamal&layout=compact&theme=radical" alt="dina's languages" />
-</p>
